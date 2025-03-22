@@ -17,6 +17,7 @@
 - Each question should have a clear title and concise answer
 - Use relative links for navigation between pages
 - Add new questions to the index page with appropriate links
+- IMPORTANT: When converting markdown to HTML, ensure that all citations, footnotes, and references are preserved exactly as they appear in the original document. Do not omit any citations or references.
 
 ## Format
 - Use 2-space indentation for HTML files
