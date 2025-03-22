@@ -8,6 +8,7 @@
 ## Commands
 - Preview site locally: `python -m http.server 8000 -d docs`
 - Validate HTML: `npx html-validate docs/**/*.html`
+- When I say "add this report," I want you to add the let's turn this report into an html report that I can host on github pages. You are to reproduce 100% for the report. No information is to be altered or omitted.
 
 ## Content Guidelines
 - Use semantic HTML (h1, p, ul, etc.) for accessibility 
